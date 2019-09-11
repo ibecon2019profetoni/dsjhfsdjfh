@@ -12,3 +12,10 @@
     v2.0 (escritura en disco)
 """
 import os
+
+# * Funciones
+
+
+# * Inicio
+if __name__ == "__main__":
+    pass
