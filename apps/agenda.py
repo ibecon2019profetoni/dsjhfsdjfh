@@ -16,6 +16,10 @@ import os
 # * Funciones
 
 
+def tonta():
+    pass
+
+
 # * Inicio
 if __name__ == "__main__":
     pass
